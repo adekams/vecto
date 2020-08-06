@@ -105,6 +105,10 @@ color: #010d1b;
     background: #010d1b;
     color: #83f3ed;
 }
+iframe{
+        width: 100%;
+        height: 470px;
+    }
 
 @media(max-width:900px){
     .navbar .nav-item{
@@ -117,9 +121,5 @@ color: #010d1b;
     .call-to-action .container{
         width: 100% !important;
     }
-    iframe{
-        width: 100%;
-        height: 400px;
-        text-align: center;
-    }
+    
 }
